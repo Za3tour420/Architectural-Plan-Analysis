@@ -4,6 +4,7 @@ Current QoL (Quality of Life) features include:
 - A small chat window
 - Light/Dark modes
 - Visual reasoning (thanks to the multimodal model!)
+
 Some plans for the future:
 - Real-time text formatting
 - Chat history & new chats
